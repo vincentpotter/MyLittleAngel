@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'HanYiShouJinShuFan';
+    src: url('fonts/HanYiShouJinShuFan-1.woff2') format('woff2'),
+         url('fonts/HanYiShouJinShuFan-1.woff') format('woff'),
+         url('fonts/HanYiShouJinShuFan-1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'HanYiShouJinShuFan', sans-serif;
+}
